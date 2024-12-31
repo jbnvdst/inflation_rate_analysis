@@ -1,2 +1,2 @@
-# inflation_rate_analysis
- 
+# Mexico Inflation Analysis/Prediction
+
